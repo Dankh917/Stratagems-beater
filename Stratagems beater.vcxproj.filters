@@ -18,12 +18,12 @@
     <ClCompile Include="main.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="func.c">
+    <ClCompile Include="keyboard_press_funcs.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="func.h">
+    <ClInclude Include="keyboard_press_funcs.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
